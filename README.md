@@ -1,1 +1,1 @@
-# batch6
+# Code excercises of Batch-6
